@@ -7,7 +7,9 @@ public class SeleniumTest {
 	@Test
 	public void uiElements()
 	{
-		System.out.println("ui Elements");
+		System.out.println("ui Elements1");
+		System.out.println("ui Elements2");
+		System.out.println("ui Elements3");
 	}
 	@Test
 	public void browserAutomation()
